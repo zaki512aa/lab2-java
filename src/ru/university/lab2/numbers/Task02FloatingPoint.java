@@ -36,7 +36,7 @@ public class Task02FloatingPoint {
 
     // правильное сравнение
     private void epsilonCompare() {
-        System.out.println("\n3. правильное сравнение:");
+        System.out.println("\n3. Правильное сравнение:");
         double a = 0.1 + 0.2;
         double b = 0.3;
         double eps = 1e-9;

@@ -14,7 +14,7 @@ public class Task01Numbers {
 
     // показываем диапазоны типов
     private void showMinMax() {
-        System.out.println("\n1. диапазоны целочисленных типов:");
+        System.out.println("\n1. Диапазоны целочисленных типов:");
         System.out.println("byte:  " + Byte.MIN_VALUE + " .. " + Byte.MAX_VALUE);
         System.out.println("short: " + Short.MIN_VALUE + " .. " + Short.MAX_VALUE);
         System.out.println("int:   " + Integer.MIN_VALUE + " .. " + Integer.MAX_VALUE);

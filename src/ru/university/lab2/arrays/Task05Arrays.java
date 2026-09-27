@@ -6,7 +6,7 @@ public class Task05Arrays {
 
     public void run() {
         int[] numbers = createRandomArray(10);
-        System.out.println("\nсозданный массив: " + arrayToString(numbers));
+        System.out.println("\nCозданный массив: " + arrayToString(numbers));
 
         findStats(numbers);
         sortArray(numbers);

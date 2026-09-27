@@ -104,7 +104,7 @@ public class Task03BitwiseOps {
 
     // обмен без temp переменной
     private void xorSwap() {
-        System.out.println("\n4. обмен через XOR:");
+        System.out.println("\n4. Обмен через XOR:");
 
         int x = 5;
         int y = 9;

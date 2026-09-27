@@ -12,7 +12,7 @@ public class Task04TextProcessing {
 
     // проверяем палиндром ли строка
     private void checkPalindrome() {
-        System.out.println("\n1. проверка палиндрома:");
+        System.out.println("\n1. Проверка палиндрома:");
 
         String[] tests = {
             "А роза упала на лапу Азора",

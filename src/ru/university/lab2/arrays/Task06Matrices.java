@@ -4,7 +4,7 @@ public class Task06Matrices {
 
     public void run() {
         int[][] matrix = createMatrix(4, 5);
-        System.out.println("\n1. матрица:");
+        System.out.println("\n1. Матрица:");
         printMatrix(matrix);
 
         int[][] transposed = transpose(matrix);
